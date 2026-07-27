@@ -19,8 +19,6 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 - 🏢 Estagiário de Desenvolvimento — **Prefeitura de Contagem / SMF**
 - 🎓 **ADS — PUC Minas** (4º período)
 - 🌍 **Contagem, MG — Brasil**
-- 🔍 Aberto a oportunidades de **estágio/júnior em desenvolvimento fullstack**
-
 ---
 
 ### 🛠️ Tech Stack
