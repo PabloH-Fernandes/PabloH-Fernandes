@@ -14,12 +14,11 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas e estagiário de desenvolvimento na **Secretaria da Fazenda de Contagem**, onde atuo no desenvolvimento e manutenção de sistemas internos e externos.
 
-Fora do estágio, construo projetos próprios pra aprofundar em fullstack e automação com IA — sempre buscando ir além do que o dia a dia exige.
+Fora do estágio, construo projetos próprios pra aprofundar em fullstack e automação com IA, sempre buscando ir além do que o dia a dia exige.
 
 - 🏢 Estagiário de Desenvolvimento — **Prefeitura de Contagem / SMF**
-- 🎓 **ADS — PUC Minas** (3º período)
+- 🎓 **ADS — PUC Minas** (4º período)
 - 🌍 **Contagem, MG — Brasil**
-- 🇺🇸 **Inglês avançado (C1)**
 - 🔍 Aberto a oportunidades de **estágio/júnior em desenvolvimento fullstack**
 
 ---
