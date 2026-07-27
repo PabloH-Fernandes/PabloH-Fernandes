@@ -70,7 +70,3 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 > ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
-
-<div align="center">
-  <i>Aberto a oportunidades — me chama no <a href="https://linkedin.com/in/pabloh-fernandes">LinkedIn</a>!</i>
-</div>
