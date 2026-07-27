@@ -59,17 +59,15 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 
 ### 🚀 Projeto em Destaque
 
-<a href="https://github.com/PabloH-Fernandes/ArenaHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloH-Fernandes&repo=ArenaHub&theme=tokyonight&hide_border=true&cache_seconds=0" />
-</a>
-
-<br/><br/>
+**[🏟️ Arena Hub](https://github.com/PabloH-Fernandes/ArenaHub)**
 
 > 🏆 **1º lugar** — Trabalho Interdisciplinar, PUC Minas (2º sem/2025)
 >
 > Sistema fullstack de agendamento de quadras esportivas para a Arena Vegas Contagem, com painéis separados para cliente e administrador. Stack: React · Node.js · Supabase · Vercel · Render.
 >
-> 🔗 [Ver aplicação ao vivo](https://arenahub-tiapn.vercel.app/arena/arena-vegas)
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
