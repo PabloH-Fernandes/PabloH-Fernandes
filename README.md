@@ -63,7 +63,7 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 
 > 🏆 **1º lugar** — Trabalho Interdisciplinar, PUC Minas (2º sem/2025)
 >
-> Sistema fullstack de agendamento de quadras esportivas para a Arena Vegas Contagem, com painéis separados para cliente e administrador. Stack: React · Node.js · Supabase · Vercel · Render.
+> Sistema fullstack de agendamento de quadras esportivas para a Arena Vegas Contagem, com painéis separados para cliente e administrador. Stack: React · Node.js · Supabase · Vercel
 >
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
