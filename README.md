@@ -60,7 +60,7 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 ### 🚀 Projeto em Destaque
 
 <a href="https://github.com/PabloH-Fernandes/ArenaHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloH-Fernandes&repo=ArenaHub&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloH-Fernandes&repo=ArenaHub&theme=tokyonight&hide_border=true&cache_seconds=0" />
 </a>
 
 <br/><br/>
