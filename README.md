@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo+Fernandes+%F0%9F%91%8B;Desenvolvedor+Fullstack;React+%7C+Node.js+%7C+TypeScript;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pablo+Fernandes+%F0%9F%91%8B;Desenvolvedor+Fullstack;React+%7C+Node.js+%7C+TypeScript)](https://git.io/typing-svg)
 
 <br/>
 
@@ -57,7 +57,6 @@ Fora do estágio, construo projetos próprios pra aprofundar em fullstack e auto
 **Automação & IA**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ---
 
